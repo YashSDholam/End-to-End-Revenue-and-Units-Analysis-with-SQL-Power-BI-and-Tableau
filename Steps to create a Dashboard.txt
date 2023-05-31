@@ -1,0 +1,10 @@
+1. Created a Database in SSMS named BikeStores 
+2. Select the Tables folder in BikeStore database in SSMS
+3. Then open the files from the Data folder and excute the queries in the given order (Create then load)
+4. After executing the queries if you expand the Tables folder from the database it will show all the tables that you have inserted by executing the queries from the sql files 
+5. Then create a new query file and combine all the necessary columns by using JOIN command to create a new table for easier visualization 
+6. Save the sql query file 
+7. Open Power BI and click import data from SQL server
+8. Write your SQL server name which pops up when you open SSMS and also give your database name BikeStores
+9. Then click advanced options and copy paste your sql query which you have saved in your file in the SQL statement box
+10. Press OK and start visualizing for creating a dashboard 
