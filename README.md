@@ -1,6 +1,8 @@
-# SQL - Power BI End to End Project
+# SQL - Power BI - Excel End to End Project
 
 ![2](https://github.com/YashSDholam/SQL-Power-BI-End-to-End-Project/assets/55828491/e8e25be8-774d-4113-9429-ade08c324d57)
+![Screenshot 2023-06-02 213028](https://github.com/YashSDholam/SQL-Power-BI-End-to-End-Project/assets/55828491/04ff5139-1c2d-4805-b80c-96976e2472d2)
+
 
 Project Summary:
 
