@@ -22,10 +22,10 @@ In Tableau, an units insight dashboard was developed to analyze units-related da
 The Power BI revenue dashboard and Tableau units insight dashboard were integrated into a cohesive reporting framework. This allowed users to seamlessly switch between the two dashboards and gain a holistic understanding of revenue and units metrics. The reporting framework also facilitated the generation of automated reports, enabling regular monitoring and tracking of performance.
 
 Key Benefits and Outcomes:
-
 Enhanced Data Analysis: The project enabled in-depth analysis of revenue and units data, providing actionable insights to drive decision-making and business growth.
 Improved Visualizations: The interactive dashboards in Power BI and Tableau presented data in a visually appealing and easily understandable format, enhancing data exploration and communication.
 Time Savings: By automating data extraction, transformation, and visualization processes, the project saved time and effort compared to manual analysis methods.
 Scalability: The solution can be scaled to handle larger datasets and additional data sources, allowing for ongoing analysis and reporting as the business expands.
+
 Conclusion:
 By leveraging SQL, Power BI, and Tableau, this end-to-end project successfully addressed the business's need for revenue and units analysis. The solution provided valuable insights, streamlined reporting, and empowered decision-makers with data-driven knowledge to make informed business decisions.
